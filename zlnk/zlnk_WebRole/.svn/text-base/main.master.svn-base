@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="zlnk_WebRole.main" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head id="Head1" runat="server">
+    <title>zlnk.net</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="author" content="zlnk.net" />
+	<meta name="description" content="Shorten your URLs [just zLink it]" />
+	<meta name="keywords" content="url,shorten" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+	<link rel="shortcut icon" href="favicon.ico" />
+	<script type="text/javascript" src="js/textsizer.js"></script>
+	<script type="text/javascript" src="js/rel.js"></script>
+</head>
+
+<body>
+<form id="frmZLNK" runat="server">
+<div id="wrap">
+<div id="top">
+<h2><a href="default.aspx">ZLNK.net<sub style="font-size:x-small">[Beta]</sub></a></h2>
+<div id="menu">
+<asp:ContentPlaceHolder ID="navPH" runat="server">
+<ul>
+<!--<li><a href="default.aspx" class="current">home</a></li>-->
+<li><a href="default.aspx" >home</a></li>
+<li><a href="Register.aspx">register</a></li>
+<li><a href="Login.aspx">login</a></li>
+<li><a href="About.aspx">help</a></li>
+</ul>
+</asp:ContentPlaceHolder>
+
+</div>
+</div>
+<div id="content">
+<!--<div style="float: right;"><a href="javascript:ts('body',1)">[+]</a> | <a
+href="javascript:ts('body',-1)">[-]</a></div>
+--><div id="left">
+<h2>ZLNK.net </h2>
+<p>
+<asp:ContentPlaceHolder ID="phMain" runat="server">
+</asp:ContentPlaceHolder>
+</p>
+<!-- <ul>
+ <li>ul-li test.</li>
+ <li>ul-li test.</li>
+ <li>ul-li test.</li>
+ <li>ul-li test.</li>
+ <li>ul-li test.</li>
+ </ul>
+ <h2>Functionality or performance</h2>
+ <p>Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content Text Content.
+ </p>
+-->
+</div>
+<div id="right">
+<!--<ul id="nav">
+	<li><a href="Default.aspx">Home</a></li>
+	<li><a href="#login">Login (coming soon)</a></li>
+	<li><a href="Register.aspx">Register</a></li>
+</ul>-->
+	<div class="box">
+		<h2 style="margin-top:17px">Whats zlnk.net?</h2>
+<!--		<ul>
+			<li><a href="#">Recent Entries1</a> <i>01 Des 09</i></li>
+			<li><a href="#">Recent Entries2</a> <i>01 Des 06</i></li>
+			<li><a href="#">Recent Entries3</a> <i>01 Des 06</i></li>
+			<li><a href="#">Recent Entries4</a> <i>01 Des 06</i></li>
+			<li><a href="#">Recent Entries5</a> <i>01 Des 06</i></li>
+		</ul>-->
+	<p>	
+		Shorten your links, with your own domain name or designated short 
+        domain name</p>
+        <p>
+        Shorten them with <a href="http://www.zlnk.net">zlnk.net</a> and we will forward it 
+            to your domain.
+            if you register you will be able to download your links association that is linked to that account.</p>
+        <p>
+        For websites with light traffic <a href="http://www.zlnk.net">zlnk.net</a> will be prvided for free all the time, just provide a link to us and make it visible that you use ZLNK.net as shortening service.</p>
+         
+	</div>
+</div>
+<div id="clear"></div></div>
+<script type="text/javascript"><!--
+    google_ad_client = "pub-3804973909904915";
+    /* 468x60, created 5/12/09 */
+    google_ad_slot = "8606243126";
+    google_ad_width = 468;
+    google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div id="footer">
+<p>Copyright ©2009 <a href="http://www.Lamassau.com/" rel="external">Lamassau.com</a> </p>
+</div>
+</div>
+</form>
+</body>
+</html>

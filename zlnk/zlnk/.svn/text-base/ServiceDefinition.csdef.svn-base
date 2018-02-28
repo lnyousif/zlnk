@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="zlnk" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <WebRole name="zlnk_WebRole">
+    <Sites>
+      <Site name="Web">
+        <Bindings>
+          <Binding name="HttpIn" endpointName="HttpIn" />
+        </Bindings>
+      </Site>
+    </Sites>
+    <ConfigurationSettings>
+      <Setting name="AccountName" />
+      <Setting name="AccountSharedKey" />
+      <Setting name="TableStorageEndpoint" />
+      <Setting name="rndlength" />
+      <Setting name="serviceurl" />
+    </ConfigurationSettings>
+    <Endpoints>
+      <InputEndpoint name="HttpIn" protocol="http" port="80" />
+    </Endpoints>
+  </WebRole>
+</ServiceDefinition>

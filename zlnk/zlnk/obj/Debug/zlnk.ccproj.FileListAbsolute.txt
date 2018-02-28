@@ -1,0 +1,156 @@
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\about.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\Default.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\Global.asax
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\items.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\lnks.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\login.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\main.master
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\register.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\Web.config
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\zlink.svc
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\zlinkSample.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\zlnkAccess.aspx.txt
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\Microsoft.Xml.Schema.Linq.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\StorageClient.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\StorageClient.pdb
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\StorageClient.xml
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\zlnk_WebRole.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\zlnk_WebRole.pdb
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\css\style.css
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\bg_menu.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\bg_t.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\bullet.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\logo.png
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\logo_.jpg
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\top_bg.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\img\top_bg_.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\js\rel.js
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\js\textsizer.js
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\WebRole\bin\ucruntime.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\ServiceDefinition.rd
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\ServiceDefinition.rdsc
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\ServiceDefinition.csdef
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\about.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\Microsoft.Xml.Schema.Linq.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\StorageClient.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\StorageClient.pdb
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\StorageClient.xml
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\zlnk_WebRole.dll
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\zlnk_WebRole.pdb
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\css\style.css
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\Default.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\Global.asax
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\bg_menu.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\bg_t.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\bullet.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\logo.png
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\logo_.jpg
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\top_bg.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\top_bg_.gif
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\items.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\js\rel.js
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\js\textsizer.js
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\lnks.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\login.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\main.master
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\register.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\Web.config
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\zlink.svc
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\zlinkSample.aspx
+C:\Users\Laith\Documents\Visual Studio 2008\Projects\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\zlnkAccess.aspx.txt
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\about.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\Default.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\Global.asax
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\items.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\lnks.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\login.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\main.master
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\register.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\Web.config
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\zlink.svc
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\zlinkSample.aspx
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\zlnkAccess.aspx.txt
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\bin\Microsoft.Xml.Schema.Linq.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\bin\StorageClient.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\bin\StorageClient.pdb
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\bin\StorageClient.xml
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\bin\zlnk_WebRole.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\bin\zlnk_WebRole.pdb
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\css\style.css
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\bg_menu.gif
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\bg_t.gif
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\bullet.gif
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\logo.png
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\logo_.jpg
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\top_bg.gif
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\img\top_bg_.gif
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\js\rel.js
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\approot\js\textsizer.js
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\RuntimeSetup.Manifest
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x64\Diagnostics.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x64\msshrtmi.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x64\mswasr.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x64\WaHostBootstrapper.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x64\WaWebHost.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x64\WaWorkerHost.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x86\Diagnostics.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x86\msshrtmi.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x86\mswasr.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x86\WaHostBootstrapper.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x86\WaWebHost.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\base\x86\WaWorkerHost.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\EtwListener.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\FileListener.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\MonAgent.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\MonAgentHost.exe
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\MonEvents.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\MonNetTransport.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\MonQuery.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\MonTables.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\secutil.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\SysCounterListener.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\SystemEventsListener.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\schema\1.0\ma.xsd
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\schema\1.0\MaStatic.xsd
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\schema\1.0\query.xsd
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\schema\1.0\QueryTableResponse.xsd
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\diagnostics\x64\monitor\schema\1.0\shared.xsd
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\storage\simulation\x64\CloudDrive.dll
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\__entrypoint.txt
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\web.config
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\roles\zlnk_WebRole\RoleModel.xml
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\ServiceDefinition.rd
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\ServiceDefinition.rdsc
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\zlnk.csx\ServiceDefinition.csdef
+C:\My Code\zlnk\zlnk\zlnk\bin\Debug\ServiceConfiguration.cscfg
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\ResolveAssemblyReference.cache
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\about.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\Microsoft.Xml.Schema.Linq.dll
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\StorageClient.dll
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\StorageClient.pdb
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\StorageClient.xml
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\zlnk_WebRole.dll
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\bin\zlnk_WebRole.pdb
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\css\style.css
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\Default.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\Global.asax
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\bg_menu.gif
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\bg_t.gif
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\bullet.gif
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\logo.png
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\logo_.jpg
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\top_bg.gif
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\img\top_bg_.gif
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\items.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\js\rel.js
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\js\textsizer.js
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\lnks.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\login.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\main.master
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\register.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\Web.config
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\zlink.svc
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\zlinkSample.aspx
+C:\My Code\zlnk\zlnk\zlnk\obj\Debug\zlnk_WebRole\zlnkAccess.aspx.txt

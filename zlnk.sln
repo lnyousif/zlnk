@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "zlnk", "zlnk\zlnk\zlnk.ccproj", "{8A988CBA-E169-4C14-85D0-271C281B47E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zlnk_WebRole", "zlnk\zlnk_WebRole\zlnk_WebRole.csproj", "{04C98BFB-929E-40F6-802E-339E6D78D27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A988CBA-E169-4C14-85D0-271C281B47E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A988CBA-E169-4C14-85D0-271C281B47E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A988CBA-E169-4C14-85D0-271C281B47E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A988CBA-E169-4C14-85D0-271C281B47E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C98BFB-929E-40F6-802E-339E6D78D27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C98BFB-929E-40F6-802E-339E6D78D27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C98BFB-929E-40F6-802E-339E6D78D27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C98BFB-929E-40F6-802E-339E6D78D27A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
